@@ -9,8 +9,15 @@
 <br>
 <br>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wal_pooh)](https://solved.ac/wal_pooh)
+<div align="center">
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CE-Walf&show_icons=true&theme=algolia)
+  
+  
+  [![Solved.ac
+  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wal_pooh)](https://solved.ac/wal_pooh)
+
+</div>
 
 
 
