@@ -5,7 +5,7 @@
   ### 😁 Thank u for visiting
 
 <hr/>
-<div align=center><h3> 🛠️ Tech Stack </h3></div>
+<div align=center><h3> 🛠️ Tech Experience </h3></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
